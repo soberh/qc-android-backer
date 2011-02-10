@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">有备无患</string>
+    <string name="main_info">使用短信备份恢复工具，有备无患</string>
+    <string name="backup">备份</string>
+    <string name="restore">恢复</string>
+    <string name="scheduleBackup">定时备份</string>
+</resources>
